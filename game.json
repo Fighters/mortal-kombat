@@ -1,0 +1,215 @@
+{
+    "romans": {
+        "regions": [
+            { 
+                "region": "default",
+                "roman": "Mortal Kombat"
+            },
+            {
+                "region": "japan",
+                "roman": "Mortal Kombat",
+                "original": "モータルコンバット"
+            }
+        ],
+        "also-known-as": [
+            "mortal combate", "mk", "mk1"
+        ]
+    },
+    "platforms": [
+        {
+            "platform": "Arcade",
+            "regions": [
+                {
+                    "region": "United States",
+                    "roman": "Mortal Kombat",
+                    "developer": "Midway",
+                    "publisher": "Midway",
+                    "releaseDate": "1992"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat",
+                    "original": "モータルコンバット",
+                    "releaseDate": "1992",
+                    "developer": "Midway",
+                    "publisher": "Taito"
+                }
+            ]
+        },
+        {
+            "platform": "Genesis",
+            "regions": [
+                {
+                    "region": "United States",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "09-13-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena",
+                    "coverFront": "genesis-USA-front.webp",
+                    "coverBack": "genesis-USA-back.webp",
+                    "coverMedia": "genesis-USA-media.webp"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat: Shinken Kourin Densetsu",
+                    "original": "モータルコンバット",
+                    "releaseDate": "09-13-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena",
+                    "coverFront": "genesis-Japan-front.webp",
+                    "coverBack": "genesis-Japan-back.webp",
+                    "coverMedia": "genesis-Japan-media.webp"
+                }
+            ]
+        },
+        {
+            "platform": "Super Nintendo",
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "09-13-1993"
+                }
+            ]
+        },
+        {
+            "platform": "Gameboy",
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "09-13-1993"
+                }
+            ]
+        },
+        {
+            "platform": "Game Gear",
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "09-13-1993"
+                }
+            ]
+        }
+    ],
+    "characters": [
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sonya Blade"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sonya Blade",
+                    "original": "ソニア・ブレイド"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Liu Kang"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Liu Kang",
+                    "original": "リュウ・カン"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Raiden"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Raiden",
+                    "original": "ライデン"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Kano"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Kano",
+                    "original": "カノウ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sub-Zero"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sub-Zero",
+                    "original": "サブ・ゼロ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Scorpion"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Scorpion",
+                    "original": "スコーピオン"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Johnny Cage"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Johnny Cage",
+                    "original": "ジョニー・ケージ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Goro"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Goro",
+                    "original": "ゴロー"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Shang Tsung"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Shang Tsung",
+                    "original": "シャン・ツン"
+                }
+            ]
+        }
+    ]
+}

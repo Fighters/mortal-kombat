@@ -1,0 +1,41 @@
+{
+    "platforms": ["Game Gear", "Master System"],
+    "names": [
+        {
+            "region": "default",
+            "roman": "Liu Kang"
+        },
+        {
+            "region": "japan",
+            "roman": "Liu Kang",
+            "original": "リュウ・カン"
+        }
+    ],
+    "moves": {
+        "{normal-moves}": [
+            {
+                "name": "Fireball",
+                "input": ":f::f: + [P]"
+            },
+            {
+                "name": "Flying Kick",
+                "input": ":f::f: + [K]"
+            }
+        ],
+        "Fatality": [
+            {
+                "name": "Cartwheel kick and uppercut",
+                "input": ":360::360:",
+                "extraInfo": "{distanceFatality}"
+            }
+        ]
+    },
+    "custom_strings": {
+        "english": [
+            { "distanceFatality": "anywhere on the screen" }
+        ],
+        "portuguese": [
+            { "distanceFatality": "em qualquer lugar da tela" }
+        ]
+    }
+}

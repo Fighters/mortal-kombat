@@ -1,0 +1,26 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "HP": "HP" },
+            { "LP": "LP" },
+            { "BL": "BL" },
+            { "HK": "HK" },
+            { "LK": "LK" }
+        ],
+        "Mega Drive": [
+            { "HP": "X" },
+            { "LP": "A" },
+            { "BL": "B" },
+            { "HK": "Z" },
+            { "LK": "C" }
+        ],
+        "Super Nintendo": [
+            { "HP": "Y" },
+            { "LP": "B" },
+            { "BL": "L" },
+            { "HK": "X" },
+            { "LK": "A" }
+        ]
+    }
+}

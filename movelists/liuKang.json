@@ -1,0 +1,40 @@
+{
+    "names": [
+        {
+            "region": "default",
+            "roman": "Liu Kang"
+        },
+        {
+            "region": "japan",
+            "roman": "Liu Kang",
+            "original": "リュウ・カン"
+        }
+    ],
+    "moves": {
+        "{special-moves}": [
+            {
+                "name": "Fireball",
+                "input": ":f::f: + [HP]"
+            },
+            {
+                "name": "Flying Kick",
+                "input": ":f::f: + [HK]"
+            }
+        ],
+        "{Fatality}": [
+            {
+                "name": "Cartwheel kick and uppercut",
+                "input": ":360::360:",
+                "extraInfo": "{distanceFatality}"
+            }
+        ]
+    },
+    "custom_strings": {
+        "english": [
+            { "distanceFatality": "anywhere on the screen" }
+        ],
+        "portuguese": [
+            { "distanceFatality": "em qualquer lugar da tela" }
+        ]
+    }
+}
