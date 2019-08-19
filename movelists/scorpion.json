@@ -10,6 +10,9 @@
 			"original": "スコーピオン"
 		}
 	],
+	"images": {
+		"face": "scorpion.webp"
+	},
 	"moves": {
 		"{special-moves}": [
 			{
@@ -19,7 +22,7 @@
 			{
 				"name": "Teleport Punch",
 				"input": ":d::b:+[HP]"
-		 }			
+		}			
 		],
 				
 		"{Fatalities}": [
