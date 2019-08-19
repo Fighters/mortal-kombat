@@ -7,7 +7,7 @@
 		{
 			"region": "japan",
 			"roman": "Sonya Blade",
-			"original": "ソーニャブレード"
+			"original": "ソニア・ブレイド"
 		}
 	],
 	"moves": {
@@ -18,12 +18,11 @@
 			},
 			{
 				"name": "Square Wave Punch",
-				"input": ":f::b: + [HP]"
+				"input": ":f::b:+[HP]"
 		 },
 			{
 				"name": "Leg Grab",
-				"input": ":d:+[LP]+[LK]+[BL]",
-				"extraInfo": "{distanceFatality}"
+				"input": ":d:+[LP]+[LK]+[BL]"			
 			}			
 		],
 				
@@ -31,7 +30,7 @@
 			{
 				"name" : "Kiss of Death",
 				"input" : ":f::f::b::b:+[BL]",
-				"distance" : "anywhere"
+				"extraInfo": "{distanceFatality}"
 			}
 		]
 	},

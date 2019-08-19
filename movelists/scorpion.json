@@ -26,7 +26,7 @@
 			{
 				"name" : "Toasty!",
 				"input" : ":u::u:",
-				"distance" : "anywhere"
+				"extraInfo": "{distanceFatality}"
 			}
 		]
 	},
