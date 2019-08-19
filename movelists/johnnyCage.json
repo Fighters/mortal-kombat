@@ -10,6 +10,9 @@
 			"original": "ジョニー・ケージ"
 		}
 	],
+	"images": {
+		"face": "johnnyCage.webp"
+	},
 	"moves": {
 		"{special-moves}": [
 			{

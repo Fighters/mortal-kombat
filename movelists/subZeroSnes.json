@@ -10,6 +10,9 @@
 			"original": "サブ・ゼロ"
 		}
 	],
+	"images": {
+		"face": "subZero.webp"
+	},
 	"moves": {
 		"{special-moves}": [
 			{

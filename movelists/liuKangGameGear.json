@@ -11,6 +11,9 @@
             "original": "リュウ・カン"
         }
     ],
+    "images": {
+        "face": "liuKang.webp"
+    },
     "moves": {
         "{normal-moves}": [
             {

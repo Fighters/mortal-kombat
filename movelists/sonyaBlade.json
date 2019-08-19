@@ -10,6 +10,9 @@
 			"original": "ソニア・ブレイド"
 		}
 	],
+	"images": {
+		"face": "sonyaBlade.webp"
+	},
 	"moves": {
 		"{special-moves}": [
 			{

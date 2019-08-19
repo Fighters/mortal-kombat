@@ -10,6 +10,9 @@
 			"original": "カノウ"
 		}
 	],
+	"images": {
+		"face": "kano.webp"
+	},
 	"moves": {
 		"{special-moves}": [
 			{
