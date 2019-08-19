@@ -32,7 +32,7 @@
 		"{Fatalities}": [
 			{
 				"name" : "Electric Decapitation",
-				"input" : ":f::b::b::b:+[HP]",
+				"input" : ":f::f::b::b::b:+[HP]",
 				"extraInfo": "{distanceFatality}"
 			}
 		]
