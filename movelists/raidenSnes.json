@@ -1,0 +1,45 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Raiden"
+		},
+		{
+			"region": "japan",
+			"roman": "Raiden",
+			"original": "ライデン"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Lightning Bolt",
+				"input": ":d::f:+[LP]"
+			},
+			{
+				"name": "Torpedo",
+				"input": ":b::b::f:"
+			},
+			{
+				"name": "Teleport",
+				"input": ":d::u:"
+			},	
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Electric Cremation",
+				"input" : ":f::b::b::b:+[HP]",
+				"extraInfo": "{distanceFatality}"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "distanceFatality": "close to the opponent" }
+		],
+		"portuguese": [
+			{ "distanceFatality": "perto do oponente" }
+		]
+	}
+}
