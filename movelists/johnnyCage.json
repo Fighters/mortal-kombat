@@ -1,0 +1,45 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Johnny Cage"
+		},
+		{
+			"region": "japan",
+			"roman": "Johnny Cage",
+			"original": "ジョニー・ケージ"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Forceball",
+				"input": ":b::f:+[LP]"
+			},
+			{
+				"name": "Shadow Kick",
+				"input": ":b::f:+[LK]"
+		 },
+			{
+				"name": "Nut Punch",
+				"input": "[LP]+[BL]"
+			}			
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Decapitation",
+				"input" : ":f::f::f:+[HP]",
+				"extraInfo": "{distanceFatality}"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "distanceFatality": "close to the opponent" }
+		],
+		"portuguese": [
+			{ "distanceFatality": "perto do oponente" }
+		]
+	}
+}

@@ -1,45 +1,46 @@
 {
-    "names": [
-        {
-            "region": "default",
-            "roman": "Sonya Blade"
-        },
-        {
-            "region": "japan",
-            "roman": "Sonya Blade",
-            "original": "ソーニャブレード"
-        }
-    ],
-    "moves": {
-        "{special-moves}": [
-            {
-                "name": "Energy Rings",
-                "input": "[LP] :b: [LP]"
-            },
-            {
-                "name": "Square Wave Punch",
-                "input": ":f::b: + [HP]"
-        },
-            {
-                "name": "Leg Grab",
-                "input": ":d:+[LP]+[LK]+[HP]"
-            }			
-        ],
-                
-        "{Fatality}": [
-            {
-                "name" : "Kiss of Death",
-                "input" : ":f::f::b::b:+[BL]",
-                "extraInfo": "{distanceFatality}"
-            }
-        ]
-    },
-    "custom_strings": {
-        "english": [
-            { "distanceFatality": "anywhere on the screen" }
-        ],
-        "portuguese": [
-            { "distanceFatality": "em qualquer lugar da tela" }
-        ]
-    }
+	"names": [
+		{
+			"region": "default",
+			"roman": "Sonya Blade"
+		},
+		{
+			"region": "japan",
+			"roman": "Sonya Blade",
+			"original": "ソーニャブレード"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Energy Rings",
+				"input": "[LP] :b: [LP]"
+			},
+			{
+				"name": "Square Wave Punch",
+				"input": ":f::b: + [HP]"
+		 },
+			{
+				"name": "Leg Grab",
+				"input": ":d:+[LP]+[LK]+[BL]",
+				"extraInfo": "{distanceFatality}"
+			}			
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Kiss of Death",
+				"input" : ":f::f::b::b:+[BL]",
+				"distance" : "anywhere"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "distanceFatality": "anywhere on the screen" }
+		],
+		"portuguese": [
+			{ "distanceFatality": "em qualquer lugar da tela" }
+		]
+	}
 }

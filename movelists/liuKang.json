@@ -11,7 +11,7 @@
         }
     ],
     "moves": {
-        "{special-moves}": [
+        "{normal-moves}": [
             {
                 "name": "Fireball",
                 "input": ":f::f: + [HP]"
@@ -21,7 +21,7 @@
                 "input": ":f::f: + [HK]"
             }
         ],
-        "{Fatality}": [
+        "Fatality": [
             {
                 "name": "Cartwheel kick and uppercut",
                 "input": ":360::360:",

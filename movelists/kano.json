@@ -1,0 +1,47 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Kano"
+		},
+		{
+			"region": "japan",
+			"roman": "Kano",
+			"original": "カノウ"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Knife Throw",
+				"input": "{hold} [BL], :b::f:, {release} [BL]"
+			},
+			{
+				"name": "Cannonball",
+				"input": ":360: {clockwise}"
+		 }		
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Heart Rip",
+				"input" : ":b::d::f:+[LP]",
+				"extraInfo": "{distanceFatality}"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "hold": "hold"},
+			{ "release": "release"},
+			{ "clockwise": "clockwise"},
+			{ "distanceFatality": "close to the opponent" }
+		],
+		"portuguese": [
+			{ "hold": "segure"},
+			{ "release": "solte"},
+			{ "clockwise": "em sentido horário"},
+			{ "distanceFatality": "perto do oponente" }
+		]
+	}
+}

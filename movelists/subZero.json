@@ -1,0 +1,41 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Sub-Zero"
+		},
+		{
+			"region": "japan",
+			"roman": "Sub-Zero",
+			"original": "サブ・ゼロ"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Ice Freeze",
+				"input": ":d::f:+[LP]"
+			},
+			{
+				"name": "Slide",
+				"input": ":b:+[LP]+[LK]+[BL]"
+			}	
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Spine Rip",
+				"input" : ":f::d::f:+[HP]",
+				"extraInfo": "{distanceFatality}"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "distanceFatality": "close to the opponent" }
+		],
+		"portuguese": [
+			{ "distanceFatality": "perto do oponente" }
+		]
+	}
+}

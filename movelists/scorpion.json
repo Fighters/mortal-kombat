@@ -1,0 +1,41 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Scorpion"
+		},
+		{
+			"region": "japan",
+			"roman": "Scorpion",
+			"original": "スコーピオン"
+		}
+	],
+	"moves": {
+		"{special-moves}": [
+			{
+				"name": "Spear",
+				"input": ":b::b:+[LP]"
+			},
+			{
+				"name": "Teleport Punch",
+				"input": ":d::b:+[HP]"
+		 }			
+		],
+				
+		"{Fatalities}": [
+			{
+				"name" : "Toasty!",
+				"input" : ":u::u:",
+				"distance" : "anywhere"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "distanceFatality": "sweep distance" }
+		],
+		"portuguese": [
+			{ "distanceFatality": "distância de uma rasteira" }
+		]
+	}
+}
