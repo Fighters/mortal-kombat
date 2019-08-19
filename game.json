@@ -289,6 +289,19 @@
             "regions": [
                 {
                     "region": "default",
+                    "roman": "Reptile"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Reptile",
+                    "original": "リープテイル"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
                     "roman": "Goro"
                 },
                 {
