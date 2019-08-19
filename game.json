@@ -66,9 +66,26 @@
             "platform": "Super Nintendo",
             "regions": [
                 {
-                    "region": "default",
+                    "region": "United States",
                     "roman": "Mortal Kombat",
-                    "releaseDate": "09-13-1993"
+                    "releaseDate": "09-13-1993",
+                    "developer": "Sculptured Software",
+                    "publisher": "Acclaim"
+                },
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "10-28-1993",
+                    "developer": "Sculptured Software",
+                    "publisher": "Acclaim"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat: Shinken Kourin Densetsu",
+                    "original": "モータルコンバット",
+                    "releaseDate": "12-24-1993",
+                    "developer": "Sculptured Software",
+                    "publisher": "Acclaim Japan"
                 }
             ]
         },
@@ -79,6 +96,25 @@
                     "region": "default",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993"
+                }
+            ]
+        },
+        {
+            "platform": "Master System",
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "09-13-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena"
+                },
+                {
+                    "region": "South America",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "04-1994",
+                    "developer": "Probe Software",
+                    "publisher": "TecToy"
                 }
             ]
         },
