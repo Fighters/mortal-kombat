@@ -12,7 +12,7 @@
             }
         ],
         "also-known-as": [
-            "mortal combate", "mk", "mk1"
+            "mortal combate", "mk", "mk1", "mortal", "mortal 1"
         ]
     },
     "platforms": [
@@ -100,6 +100,25 @@
             ]
         },
         {
+            "platform": "PC",
+            "regions": [
+                {
+                    "region": "United States",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "05-25-1994",                    
+                    "developer": "Midway",
+                    "publisher": "Acclaim"
+                },
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1993",                    
+                    "developer": "Midway",
+                    "publisher": "Virgin Interactive"
+                }
+            ]
+        },
+        {
             "platform": "Master System",
             "regions": [
                 {
@@ -125,6 +144,51 @@
                     "region": "default",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993"
+                }
+            ]
+        },
+        {
+            "platform": "Sega CD",
+            "regions": [
+                {
+                    "region": "United States",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "05-26-1994",
+                    "developer": "Probe Software",
+                    "publisher": "Arena"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat Kanzen-han",
+                    "releaseDate": "06-03-1994",
+                    "developer": "Probe Software",
+                    "publisher": "Arena"
+                },
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1994",
+                    "developer": "Probe Software",
+                    "publisher": "Arena"
+                },
+                {
+                    "region": "South America",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1994",
+                    "developer": "Probe Software",
+                    "publisher": "TecToy"
+                }
+            ]
+        },
+        {
+            "platform": "Amiga",
+            "regions": [
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1994",
+                    "developer": "Probe Software",
+                    "publisher": "Virgin Interactive"
                 }
             ]
         }
