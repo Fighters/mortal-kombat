@@ -70,14 +70,16 @@
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Sculptured Software",
-                    "publisher": "Acclaim"
+                    "publisher": "Acclaim",
+                    "coverFront": "snes-USA-front.webp"
                 },
                 {
                     "region": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "10-28-1993",
                     "developer": "Sculptured Software",
-                    "publisher": "Acclaim"
+                    "publisher": "Acclaim",
+                    "coverFront": "snes-EU-front.webp"
                 },
                 {
                     "region": "Japan",
@@ -85,7 +87,8 @@
                     "original": "モータルコンバット",
                     "releaseDate": "12-24-1993",
                     "developer": "Sculptured Software",
-                    "publisher": "Acclaim Japan"
+                    "publisher": "Acclaim Japan",
+                    "coverFront": "snes-JP-front.webp"
                 }
             ]
         },
@@ -93,9 +96,29 @@
             "platform": "Gameboy",
             "regions": [
                 {
-                    "region": "default",
+                    "region": "United States",
                     "roman": "Mortal Kombat",
-                    "releaseDate": "09-13-1993"
+                    "releaseDate": "09-13-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Acclaim",
+                    "coverFront": "gameboy-USA-front.webp"
+                },
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1994",
+                    "developer": "Probe Software",
+                    "publisher": "Acclaim",
+                    "coverFront": "gameboy-EU-front.webp"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat: Shinken Kourin Densetsu",
+                    "original": "モータルコンバット",
+                    "releaseDate": "12-24-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Acclaim Japan",
+                    "coverFront": "gameboy-JP-front.webp"
                 }
             ]
         },
@@ -107,14 +130,16 @@
                     "roman": "Mortal Kombat",
                     "releaseDate": "05-25-1994",                    
                     "developer": "Midway",
-                    "publisher": "Acclaim"
+                    "publisher": "Acclaim",
+                    "coverFront": "pc-USA-front.webp"
                 },
                 {
                     "region": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1993",                    
                     "developer": "Midway",
-                    "publisher": "Virgin Interactive"
+                    "publisher": "Virgin Interactive",
+                    "coverFront": "pc-EU-front.webp"
                 }
             ]
         },
@@ -122,18 +147,20 @@
             "platform": "Master System",
             "regions": [
                 {
-                    "region": "default",
+                    "region": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Probe Software",
-                    "publisher": "Arena"
+                    "publisher": "Arena",
+                    "coverFront": "masterSystem-EU-front.webp"
                 },
                 {
                     "region": "South America",
                     "roman": "Mortal Kombat",
                     "releaseDate": "04-1994",
                     "developer": "Probe Software",
-                    "publisher": "TecToy"
+                    "publisher": "TecToy",
+                    "coverFront": "masterSystem-SA-front.webp"
                 }
             ]
         },
@@ -141,9 +168,29 @@
             "platform": "Game Gear",
             "regions": [
                 {
-                    "region": "default",
+                    "region": "United States",
                     "roman": "Mortal Kombat",
-                    "releaseDate": "09-13-1993"
+                    "releaseDate": "09-13-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena",
+                    "coverFront": "gameGear-USA-front.webp"
+                },
+                {
+                    "region": "Japan",
+                    "roman": "Mortal Kombat: Shinken Kourin Densetsu",
+                    "original": "モータルコンバット",
+                    "releaseDate": "12-17-1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena",
+                    "coverFront": "gameGear-JP-front.webp"
+                },
+                {
+                    "region": "Europe",
+                    "roman": "Mortal Kombat",
+                    "releaseDate": "1993",
+                    "developer": "Probe Software",
+                    "publisher": "Arena",
+                    "coverFront": "gameGear-EU-front.webp"
                 }
             ]
         },
@@ -155,21 +202,24 @@
                     "roman": "Mortal Kombat",
                     "releaseDate": "05-26-1994",
                     "developer": "Probe Software",
-                    "publisher": "Arena"
+                    "publisher": "Arena",
+                    "coverFront": "segaCd-USA-front.webp"
                 },
                 {
                     "region": "Japan",
                     "roman": "Mortal Kombat Kanzen-han",
                     "releaseDate": "06-03-1994",
                     "developer": "Probe Software",
-                    "publisher": "Arena"
+                    "publisher": "Arena",
+                    "coverFront": "segaCd-JP-front.webp"
                 },
                 {
                     "region": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
-                    "publisher": "Arena"
+                    "publisher": "Arena",
+                    "coverFront": "segaCd-EU-front.webp"
                 },
                 {
                     "region": "South America",
@@ -188,7 +238,8 @@
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
-                    "publisher": "Virgin Interactive"
+                    "publisher": "Virgin Interactive",
+                    "coverFront": "amiga-EU-front.webp",
                 }
             ]
         }
