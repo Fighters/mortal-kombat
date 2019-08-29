@@ -1,8 +1,8 @@
 {
     "english": {
-        "{normal-moves}": "Normal moves"
+        "{normalMoves}": "Normal moves"
     },
     "portuguese": {
-        "{normal-moves}": "Golpes normais"
+        "{normalMoves}": "Golpes normais"
     }
 }

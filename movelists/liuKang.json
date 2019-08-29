@@ -14,7 +14,7 @@
         "face": "liuKang.webp"
     },
     "moves": {
-        "{normal-moves}": [
+        "{normalMoves}": [
             {
                 "name": "Fireball",
                 "input": ":f::f: + [HP]"
