@@ -1,15 +1,13 @@
 {
-    "names": [
-        {
-            "region": "default",
+    "names": {
+        "default": {
             "roman": "Liu Kang"
         },
-        {
-            "region": "japan",
+        "japan": {
             "roman": "Liu Kang",
             "original": "リュウ・カン"
         }
-    ],
+    },
     "images": {
         "face": "liuKang.webp"
     },
