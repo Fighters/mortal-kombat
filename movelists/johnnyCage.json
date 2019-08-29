@@ -14,7 +14,7 @@
 		"face": "johnnyCage.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Forceball",
 				"input": ":b::f:+[LP]"

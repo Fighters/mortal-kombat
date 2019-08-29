@@ -13,7 +13,7 @@
 		"face": "sonyaBlade.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Energy Rings",
 				"input": "[LP] :b: [LP]"

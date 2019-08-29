@@ -14,7 +14,7 @@
 		"face": "subZero.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Ice Freeze",
 				"input": ":d::f:+[LP]"

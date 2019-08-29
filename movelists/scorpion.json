@@ -14,7 +14,7 @@
 		"face": "scorpion.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Spear",
 				"input": ":b::b:+[LP]"

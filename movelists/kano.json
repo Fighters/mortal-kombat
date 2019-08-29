@@ -14,7 +14,7 @@
 		"face": "kano.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Knife Throw",
 				"input": "{hold} [BL], :b::f:, {release} [BL]"

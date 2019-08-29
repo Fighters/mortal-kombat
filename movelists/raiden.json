@@ -14,7 +14,7 @@
 		"face": "raiden.webp"
 	},
 	"moves": {
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Lightning Bolt",
 				"input": ":d::f:+[LP]"
