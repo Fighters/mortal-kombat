@@ -1,15 +1,14 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Sonya Blade"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Sonya Blade",
 			"original": "ソニア・ブレイド"
 		}
-	],
+	}
+	,
 	"images": {
 		"face": "sonyaBlade.webp"
 	},
@@ -22,7 +21,7 @@
 			{
 				"name": "Square Wave Punch",
 				"input": ":f::b:+[HP]"
-		 },
+		},
 			{
 				"name": "Leg Grab",
 				"input": ":d:+[LP]+[LK]+[BL]"			
@@ -38,11 +37,11 @@
 		]
 	},
 	"custom_strings": {
-		"english": [
-			{ "distanceFatality": "anywhere on the screen" }
-		],
-		"portuguese": [
-			{ "distanceFatality": "em qualquer lugar da tela" }
-		]
+		"english": {
+			"distanceFatality": "anywhere on the screen" 
+		},
+		"portuguese": { 
+			"distanceFatality": "em qualquer lugar da tela"
+		}
 	}
 }
