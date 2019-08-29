@@ -34,10 +34,10 @@
     },
     "customStrings": {
         "english": {
-            { "distanceFatality": "anywhere on the screen" }
-	},
+            "distanceFatality": "anywhere on the screen"
+	    },
         "portuguese": {
-            { "distanceFatality": "em qualquer lugar da tela" }
-	}
+            "distanceFatality": "em qualquer lugar da tela"
+	    }
     }
 }
