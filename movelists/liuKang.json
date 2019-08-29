@@ -33,11 +33,11 @@
         ]
     },
     "customStrings": {
-        "english": [
+        "english": {
             { "distanceFatality": "anywhere on the screen" }
-        ],
-        "portuguese": [
+	},
+        "portuguese": {
             { "distanceFatality": "em qualquer lugar da tela" }
-        ]
+	}
     }
 }
