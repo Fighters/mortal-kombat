@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Sub-Zero"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Sub-Zero",
 			"original": "サブ・ゼロ"
 		}
-	],
+	},
 	"images": {
 		"face": "subZero.webp"
 	},
@@ -33,12 +31,12 @@
 			}
 		]
 	},
-	"custom_strings": {
-		"english": [
-			{ "distanceFatality": "close to the opponent" }
-		],
-		"portuguese": [
-			{ "distanceFatality": "perto do oponente" }
-		]
+	"customStrings": {
+		"english": {
+			"distanceFatality": "close to the opponent"
+		},
+		"portuguese": {
+			"distanceFatality": "perto do oponente"
+		}
 	}
 }
