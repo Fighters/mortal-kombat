@@ -1,33 +1,35 @@
 {
-    "romans": {
-        "regions": [
-            { 
-                "region": "default",
-                "roman": "Mortal Kombat"
-            },
-            {
-                "region": "japan",
-                "roman": "Mortal Kombat",
-                "original": "モータルコンバット"
-            }
-        ],
-        "also-known-as": [
-            "mortal combate", "mk", "mk1", "mortal", "mortal 1"
-        ]
-    },
+    "names": [
+        {
+            "region": "default",
+            "roman": "Mortal Kombat"
+        },
+        {
+            "region": "japan",
+            "roman": "Mortal Kombat",
+            "original": "モータルコンバット"
+        }
+    ],
+    "also-known-as": [
+        "mortal combate",
+        "mk",
+        "mk1",
+        "mortal",
+        "mortal 1"
+    ],
     "platforms": [
         {
-            "platform": "Arcade",
+            "name": "Arcade",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
                     "developer": "Midway",
                     "publisher": "Midway",
                     "releaseDate": "1992"
                 },
                 {
-                    "region": "Japan",
+                    "name": "Japan",
                     "roman": "Mortal Kombat",
                     "original": "モータルコンバット",
                     "releaseDate": "1992",
@@ -37,7 +39,7 @@
             ]
         },
         {
-            "platform": "Genesis",
+            "name": "Genesis",
             "regions": [
                 {
                     "region": "United States",
@@ -63,10 +65,10 @@
             ]
         },
         {
-            "platform": "Super Nintendo",
+            "name": "Super Nintendo",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Sculptured Software",
@@ -74,7 +76,7 @@
                     "coverFront": "snes-USA-front.webp"
                 },
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "10-28-1993",
                     "developer": "Sculptured Software",
@@ -82,7 +84,7 @@
                     "coverFront": "snes-EU-front.webp"
                 },
                 {
-                    "region": "Japan",
+                    "name": "Japan",
                     "roman": "Mortal Kombat: Shinken Kourin Densetsu",
                     "original": "モータルコンバット",
                     "releaseDate": "12-24-1993",
@@ -93,10 +95,10 @@
             ]
         },
         {
-            "platform": "Gameboy",
+            "name": "Gameboy",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Probe Software",
@@ -104,7 +106,7 @@
                     "coverFront": "gameboy-USA-front.webp"
                 },
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
@@ -112,7 +114,7 @@
                     "coverFront": "gameboy-EU-front.webp"
                 },
                 {
-                    "region": "Japan",
+                    "name": "Japan",
                     "roman": "Mortal Kombat: Shinken Kourin Densetsu",
                     "original": "モータルコンバット",
                     "releaseDate": "12-24-1993",
@@ -123,20 +125,20 @@
             ]
         },
         {
-            "platform": "PC",
+            "name": "PC",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
-                    "releaseDate": "05-25-1994",                    
+                    "releaseDate": "05-25-1994",
                     "developer": "Midway",
                     "publisher": "Acclaim",
                     "coverFront": "pc-USA-front.webp"
                 },
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
-                    "releaseDate": "1993",                    
+                    "releaseDate": "1993",
                     "developer": "Midway",
                     "publisher": "Virgin Interactive",
                     "coverFront": "pc-EU-front.webp"
@@ -144,10 +146,10 @@
             ]
         },
         {
-            "platform": "Master System",
+            "name": "Master System",
             "regions": [
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Probe Software",
@@ -155,7 +157,7 @@
                     "coverFront": "masterSystem-EU-front.webp"
                 },
                 {
-                    "region": "South America",
+                    "name": "South America",
                     "roman": "Mortal Kombat",
                     "releaseDate": "04-1994",
                     "developer": "Probe Software",
@@ -165,10 +167,10 @@
             ]
         },
         {
-            "platform": "Game Gear",
+            "name": "Game Gear",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
                     "releaseDate": "09-13-1993",
                     "developer": "Probe Software",
@@ -176,7 +178,7 @@
                     "coverFront": "gameGear-USA-front.webp"
                 },
                 {
-                    "region": "Japan",
+                    "name": "Japan",
                     "roman": "Mortal Kombat: Shinken Kourin Densetsu",
                     "original": "モータルコンバット",
                     "releaseDate": "12-17-1993",
@@ -185,7 +187,7 @@
                     "coverFront": "gameGear-JP-front.webp"
                 },
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1993",
                     "developer": "Probe Software",
@@ -195,10 +197,10 @@
             ]
         },
         {
-            "platform": "Sega CD",
+            "name": "Sega CD",
             "regions": [
                 {
-                    "region": "United States",
+                    "name": "United States",
                     "roman": "Mortal Kombat",
                     "releaseDate": "05-26-1994",
                     "developer": "Probe Software",
@@ -206,7 +208,7 @@
                     "coverFront": "segaCd-USA-front.webp"
                 },
                 {
-                    "region": "Japan",
+                    "name": "Japan",
                     "roman": "Mortal Kombat Kanzen-han",
                     "releaseDate": "06-03-1994",
                     "developer": "Probe Software",
@@ -214,7 +216,7 @@
                     "coverFront": "segaCd-JP-front.webp"
                 },
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
@@ -222,7 +224,7 @@
                     "coverFront": "segaCd-EU-front.webp"
                 },
                 {
-                    "region": "South America",
+                    "name": "South America",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
@@ -231,149 +233,28 @@
             ]
         },
         {
-            "platform": "Amiga",
+            "name": "Amiga",
             "regions": [
                 {
-                    "region": "Europe",
+                    "name": "Europe",
                     "roman": "Mortal Kombat",
                     "releaseDate": "1994",
                     "developer": "Probe Software",
                     "publisher": "Virgin Interactive",
-                    "coverFront": "amiga-EU-front.webp",
+                    "coverFront": "amiga-EU-front.webp"
                 }
             ]
         }
     ],
-    "characters": [
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Sonya Blade"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Sonya Blade",
-                    "original": "ソニア・ブレイド"
-                }
-            ]
+    "features": [
+        {
+            "name": "Digitized Sprites"
         },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Liu Kang"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Liu Kang",
-                    "original": "リュウ・カン"
-                }
-            ]
+        {
+            "name": "Fatalities"
         },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Raiden"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Raiden",
-                    "original": "ライデン"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Kano"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Kano",
-                    "original": "カノウ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Sub-Zero"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Sub-Zero",
-                    "original": "サブ・ゼロ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Scorpion"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Scorpion",
-                    "original": "スコーピオン"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Johnny Cage"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Johnny Cage",
-                    "original": "ジョニー・ケージ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Reptile"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Reptile",
-                    "original": "リープテイル"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Goro"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Goro",
-                    "original": "ゴロー"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Shang Tsung"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Shang Tsung",
-                    "original": "シャン・ツン"
-                }
-            ]
+        {
+            "name": "Block Button"
         }
     ]
 }
