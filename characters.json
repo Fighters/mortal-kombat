@@ -1,0 +1,91 @@
+[
+	{
+		"name": "Scorpion",
+		"repository": "",
+		"movelist": "scorpion.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Sub-Zero",
+		"also-known-as": [
+			"Bi-Han"
+		],
+		"repository": "",
+		"movelist": "subZero.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Liu Kang",
+		"repository": "",
+		"movelist": "liuKang.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Johnny Cage",
+		"repository": "",
+		"movelist": "johnnyCage.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Sonya Blade",
+		"repository": "",
+		"movelist": "sonyaBlade.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Kano",
+		"repository": "",
+		"movelist": "kano.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Raiden",
+		"also-known-as": [
+			"Rayden"
+		],
+		"repository": "",
+		"movelist": "raiden.json",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Reptile",
+		"also-known-as": [
+			"Syzoth"
+		],
+		"repository": "",
+		"movelist": "",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Goro",
+		"repository": "",
+		"movelist": "",
+		"names": [
+			{}
+		]
+	},
+	{
+		"name": "Shang Tsung",
+		"repository": "",
+		"movelist": "",
+		"names": [
+			{}
+		]
+	}
+]
